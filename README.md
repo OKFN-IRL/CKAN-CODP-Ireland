@@ -1,4 +1,3 @@
-
 Central Open Data Portal (CODP)
 ___________________________________________
 
@@ -6,4 +5,4 @@ ___________________________________________
  + front end 
  + back end
  + redirect ie.ckan.net to opendata.ie/data (???)
-  + i.e ‘Two guys + CKAN” in Bermuda’ 
+  ++ i.e 'Two guys + CKAN = [Bermuda.io](http://bermuda.io/) 
