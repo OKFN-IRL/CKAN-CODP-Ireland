@@ -5,4 +5,4 @@ ___________________________________________
  + front end 
  + back end
  + redirect ie.ckan.net to opendata.ie/data (???)
-  ++ i.e 'Two guys + CKAN = [Bermuda.io](http://bermuda.io/) 
+   + i.e 'Two guys + CKAN = [Bermuda.io](http://bermuda.io/) 
